@@ -6,7 +6,7 @@ from logging.handlers import RotatingFileHandler
 REQUEST1 = os.environ.get("REQUEST1", "https://t.me/+LWJv7cjURvoyYWU1")
 REQUEST2 = os.environ.get("REQUEST2", "https://t.me/+R6xc_7a0yX4xYzVl")
 
-TG_BOT_TOKEN = os.environ.get("TG_BOT_TOKEN", "7227898838:AAHk592xgN0I61eA1JwHnv5bFYbzn-WCYS8") #@elixir1
+TG_BOT_TOKEN = os.environ.get("TG_BOT_TOKEN", "7227898838:AAE09d00tLDqS2_QbykRIz8LRi8NSwtL3F4") #@elixir1
 APP_ID = int(os.environ.get("APP_ID", "25695562"))
 API_HASH = os.environ.get("API_HASH", "0b691c3e86603a7e34aae0b5927d725a")
 CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1001902545745"))
